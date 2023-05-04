@@ -1,0 +1,27 @@
+[{
+    "cilindraje":200,
+    "serial": 1121,
+    "chasis":2431,
+    "marca":"motul",
+    "servicio":1000
+    
+},{
+    "cilindraje":125,
+    "serial": 1122,
+    "chasis":2432,
+    "marca":"castrol",
+    "servicio":2000
+},{
+    "cilindraje":100,
+    "serial": 1123,
+    "chasis":2433,
+    "marca":"movilsuper",
+    "servicio":500
+},{
+    "cilindraje":126,
+    "serial": 1124,
+    "chasis":2434,
+    "marca":"motul",
+    "servicio":200
+}
+]
